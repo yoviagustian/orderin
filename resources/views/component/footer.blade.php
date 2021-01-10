@@ -41,13 +41,12 @@
             <address class="text-muted">
                 <ul class="list-unstyled">
                   <li>
-                  City Hall<br>
-                      212  Street<br>
-                      Lawoma<br>
-                      735<br>
+                  Surabaya<br>
+                      Keputih Tegal Timur No.59<br>
+                      Indonesia<br>
                   </li>
                   <li>
-                      Phone: 0834534309
+                      Phone: 0895377266596
                   </li>
                   </ul>
             </address>
